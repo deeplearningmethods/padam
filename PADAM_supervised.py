@@ -4,7 +4,7 @@ nr_steps = 50000
 n_test = 100000
 bs = 256
 lr = 0.0001
-runs = 10
+runs = 50
 eval_points = 200
 test_steps = 5000
 
